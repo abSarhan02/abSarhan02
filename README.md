@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end!!
 - 🌱 I’m currently learning react 
 - 💞️ I’m looking to collaborate on front end projects
-- 📫 How to reach me: absarhan02@gmail.com
+- 📫 My linkedin: https://www.linkedin.com/in/abdelkhalek-sarhan/
 
 <!---
 abSarhan02/abSarhan02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
