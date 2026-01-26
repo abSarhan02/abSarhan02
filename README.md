@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abSarhan02
 - 👀 I’m interested in front end!!
-- 🌱 I’m currently learning react 
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 My linkedin: https://www.linkedin.com/in/abdelkhalek-sarhan/
 
